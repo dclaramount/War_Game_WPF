@@ -1,0 +1,9 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <SolidColorBrush x:Key="WarButtonTextBrush"         Color="#45FFFFFF" />
+    <SolidColorBrush x:Key="WarButtonBrush"             Color="#AA000000" />
+    <SolidColorBrush x:Key="WarButtonBorderBrush"       Color="#88FFFFFF" />
+    <SolidColorBrush x:Key="ActiveWarButtonBrush"       Color="#AA005000" />
+    <SolidColorBrush x:Key="PressedWarButtonBrush"      Color="#AA00AA00" />
+    <SolidColorBrush x:Key="DisabledWarButtonBrush"     Color="#AAAA0000" />
+</ResourceDictionary>
